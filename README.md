@@ -12,3 +12,10 @@ The objective here is to practice everything in a final assignment.
 
 **`Course_3` - Methodology for Data Science**
 Some notebooks about Business understanding, Data requirements, Data collection and preparation, etc
+
+## Dependencies
+
+Relate to `pyproject.toml` for detailes information. 
+Python version: >= 3.12
+- ipykernel
+- pandas
