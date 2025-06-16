@@ -5,6 +5,9 @@ description = "This repo contains my exercises and assingments necessary for the
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "graphviz>=0.21",
     "ipykernel>=6.29.5",
+    "matplotlib>=3.10.3",
     "pandas>=2.3.0",
+    "scikit-learn>=1.7.0",
 ]
