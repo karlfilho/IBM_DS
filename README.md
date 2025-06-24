@@ -13,6 +13,12 @@ The objective here is to practice everything in a final assignment.
 **`Course_3` - Methodology for Data Science**
 Some notebooks about Business understanding, Data requirements, Data collection and preparation, etc
 
+**`Course_4` - Basic Python for Data Science**
+- Basic Python
+- Basic Pandas
+- Basic Numpy
+- Basic matrix operations
+
 ## Requirements
 
 Refer to `pyproject.toml` for detailed information. 
