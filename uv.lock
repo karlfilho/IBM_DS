@@ -200,6 +200,7 @@ dependencies = [
     { name = "graphviz" },
     { name = "ipykernel" },
     { name = "matplotlib" },
+    { name = "numpy" },
     { name = "pandas" },
     { name = "scikit-learn" },
 ]
@@ -209,6 +210,7 @@ requires-dist = [
     { name = "graphviz", specifier = ">=0.21" },
     { name = "ipykernel", specifier = ">=6.29.5" },
     { name = "matplotlib", specifier = ">=3.10.3" },
+    { name = "numpy", specifier = ">=2.3.0" },
     { name = "pandas", specifier = ">=2.3.0" },
     { name = "scikit-learn", specifier = ">=1.7.0" },
 ]
