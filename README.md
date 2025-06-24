@@ -18,8 +18,10 @@ Some notebooks about Business understanding, Data requirements, Data collection 
 - Basic Pandas
 - Basic Numpy
 - Basic matrix operations
+- Simple APIs
+- Web Scraping
 
-**`Course_5` - Simple APIs**
+**`Course_5` - Python Project for Data Science**
 
 
 ## Requirements
