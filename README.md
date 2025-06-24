@@ -19,6 +19,9 @@ Some notebooks about Business understanding, Data requirements, Data collection 
 - Basic Numpy
 - Basic matrix operations
 
+**`Course_5` - Simple APIs**
+
+
 ## Requirements
 
 Refer to `pyproject.toml` for detailed information. 
